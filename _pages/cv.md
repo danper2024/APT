@@ -1,7 +1,14 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://github.com/your-username/your-repository/blob/main/assets/your-cv.pdf
 author_profile: true
-redirect_from: https://github.com/danper2024/APT/blob/master/assets/Zolyomi_cv_Jan%202022.pdf
+redirect_from: 
+  - /resume
+---
+
+{% include base_path %}
+
+
+
 

@@ -7,8 +7,7 @@
 main:
     
   - title: "CV"
-    url: /assets/Zolyomi_cv_Jan 2022.pdf
-
+    url: /CV/
     
   - title: "Publications"
     url: /publications/

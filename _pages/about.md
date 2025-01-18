@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Annuska Line Drawing](/images/AnnuskaZolyomi_lines.png){: .align-right width="300px"}
+![Image of Annuska Generated in Lines](https://github.com/danper2024/APT/blob/master/images/AnnuskaZolyomi_lines.png){: .align-right width="900px"}
 
 I am an Assistant Professor at the University of Washington Bothell. I completed my doctoral studies from the University of Washington, advised by Dr. Jaime Snyder.  I have a masters in Human-Centered Design and Engineering. I worked in the technology industry as a program manager, product planner, and accessibility strategist.
 

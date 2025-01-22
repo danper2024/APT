@@ -17,4 +17,6 @@ My Goals
 ======
 I am excited to bring my inclusive lens to human-computer interaction and software engineering pedagogy. Through scholarship and collaborations, I aim to work with diverse, creative teams dedicated to developing knowledge, education, and technology for social good.
 
-
+My Biography
+======
+Success industry experience and then two graduate programs.  Owner of my own consulting company.

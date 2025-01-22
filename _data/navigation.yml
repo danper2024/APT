@@ -10,19 +10,19 @@ main:
     url: /files/Zolyomi_cv_Jan 2022.pdf
     
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=fCi4WuYAAAAJ
+    url: /publications/
     
   - title: "Teaching"
     url: /teaching/    
   
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
     
-  - title: "Talks"
-    url: /talks/    
+  - title: "Mentoring"
+    url: /mentoring/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Professional Service"
+    url: /professionsal-service/
     
   - title: "Guide"
     url: /markdown/

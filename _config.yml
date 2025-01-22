@@ -78,9 +78,9 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  talks:
     title: 'Talks'    
-  conferences:
+  other:
     title: 'Other'
 
 # Site Settings

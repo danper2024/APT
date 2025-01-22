@@ -19,4 +19,4 @@ I am excited to bring my inclusive lens to human-computer interaction and softwa
 
 My Biography
 ======
-Success industry experience and then two graduate programs.  Owner of my own consulting company.
+Success industry experience and then two graduate programs.  Owner of my own consulting company.  [Download my CV](/files/Zolyomi_cv_Jan 2022.pdf)

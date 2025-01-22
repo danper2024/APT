@@ -1,6 +1,5 @@
 ---
 permalink: /
-![Line Drawing of Annuska](/APT//images/AnnuskaZolyomi_lines.png)
 title: "My Experience"
 author_profile: true
 redirect_from: 
@@ -8,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: right;">
-    <img src="/APT//images/AnnuskaZolyomi_lines.png" alt="Annuska Image Generated with Lines" style="width:200px;">
-</p>
+![Line Drawing of Annuska](/APT//images/AnnuskaZolyomi_lines.png)[:align-right width="300px"}
 
 I am an Assistant Professor at the University of Washington Bothell. I completed my doctoral studies from the University of Washington, advised by Dr. Jaime Snyder.  I have a masters in Human-Centered Design and Engineering. I worked in the technology industry as a program manager, product planner, and accessibility strategist.
 

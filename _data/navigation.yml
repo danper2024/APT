@@ -6,18 +6,17 @@
 
 main:
   
- 
+   - title: "IDEA Lab"
+    url: /idea-lab/   
+        
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
     
   - title: "Teaching"
     url: /teaching/    
-  
-  - title: "IDEA Lab"
-    url: /idea-lab/    
-        
-  - title: "Portfolio"
-    url: /portfolio/
     
   - title: "Guide"
     url: /markdown/
